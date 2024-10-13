@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @iBoysAT
+# 👋 Hi, I’m @iBoysAT (Chris)
 
 - 👀 I’m interested in building cool apps, web development, and creating user-friendly experiences.
 - 🌱 I’m currently learning more about advanced Android development, Kotlin, and improving backend skills with PHP and API integrations.
